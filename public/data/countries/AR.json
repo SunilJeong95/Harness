@@ -1,0 +1,279 @@
+{
+  "code": "AR",
+  "name": "Argentina",
+  "continent": "South America",
+  "fetchedAt": "2026-07-02T06:49:36.808Z",
+  "isMock": false,
+  "items": [
+    {
+      "title": "DesaKTa2 x SIMON // Te Perdí",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=ZEbaYEZbMmg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZEbaYEZbMmg/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "SPIDER-MAN: UN NUEVO DÍA \"Spider-Man conoce a Messi\" Tráiler Español Latino (2026)",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=ZSxL1_P6NjU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZSxL1_P6NjU/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "me volví un PRO en ESCONDERME ",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=iZIhfOm5jKs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iZIhfOm5jKs/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Don Omar - Dale Don Dale (Lyric Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=4ubjZcyxzBY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ubjZcyxzBY/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Camp Rock 3 | Avance Doblado | Disney+",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=IJSOuHtrcA4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IJSOuHtrcA4/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "EL MEJOR jugador del MUNDO busca MATARME en EXTREMO",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=5fRP84yodxw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5fRP84yodxw/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Marc Seguí, Rauw Alejandro, Pol Granch - Tiroteo REMIX (Letra/Lyrics)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=pn3p8yeQrkI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pn3p8yeQrkI/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "La Odisea | Tráiler Oficial (Universal Pictures)",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=8un_UztYsw0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8un_UztYsw0/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Me Convertí en VERITY para Trollear a Mis Amigos en Minecraft",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=fobLnMCpUMA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fobLnMCpUMA/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "JAIRO VERA  & JERE KLEIN - UN CLASICO  (Video Oficial)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=0bOVZJEamMk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0bOVZJEamMk/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "¿ANGRY BIRDS 3: LA PELÍCULA SERÁ UN DESASTRE?",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=k29SeVoSllY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k29SeVoSllY/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "Sobrevivimos a la PEOR INUNDACIÓN con TORMENTA en Brookhaven Roblox con Mandarina y Chocoblox",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=M3uJA3JVSw0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3uJA3JVSw0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Dalex - Pa Mi (Remix) ft. Sech, Rafa Pabön, Cazzu, Feid, Khea and Lenny Tavárez  (Letra)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=UmYzgg6DDY4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UmYzgg6DDY4/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "FIFA World Cup 2026 Anthem | Cinematic AI Trailer #fifa",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=CZPHLBCdiqo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CZPHLBCdiqo/mqdefault.jpg",
+      "sourceCategoryTag": "17"
+    },
+    {
+      "title": "SI NO LOS ENCUENTRO PIERDO DINERO EN MECCHA CHAMELEON",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=0FTy8QJ7y90",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0FTy8QJ7y90/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Maxi Espindola, TINI - \"Te Pido\" Live Desde Niceto (Official Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=0oHwwudVejs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0oHwwudVejs/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "IMPRESIONATE: Tráiler del Mundial creado en IA por un aficionado.",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=uVkK0SSNXbw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uVkK0SSNXbw/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "NUNCA VAYAS A TRABAJAR AL HOSPITAL DE ANIMALES en ROBLOX !! ANIMAL HOSPITAL con LYNA",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=Dms59PLKdDI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Dms59PLKdDI/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Another One Bites The Dust",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=b72gdhV_rXM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b72gdhV_rXM/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Angry Birds 3 | Tráiler Oficial (DOBLADO) | Diciembre 2026",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=qI_JqLRJh74",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qI_JqLRJh74/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Minecraft Base en ESTATUA POBRE vs Base en ESTATUA MILLONARIA",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=-fyb3VbF6JU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-fyb3VbF6JU/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Marc Seguí, Rauw Alejandro, Pol Granch - TIROTEO REMIX",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=4kn9drxIWQc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4kn9drxIWQc/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Adios Youtube... ahora soy Organizador de Libros 📚📚📚",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=mqxfYKNEgKs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mqxfYKNEgKs/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Corridos Del Rey - Ayer Hable Con Dios Remix (Video Oficial)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=IJmYMkyVe1I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IJmYMkyVe1I/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Me Hice Pasar por NOOB, después USÉ ADMIN en ESCAPA del TECLADO en Roblox!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=Heq2TFb20x8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Heq2TFb20x8/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Conep - After (Official Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=6dfNMwl6sSM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6dfNMwl6sSM/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Me Escondí a Simple Vista...",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=O0uq8Z4dnS0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O0uq8Z4dnS0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Por Si Mañana No Estoy",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=iFpRPf2j9Qc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iFpRPf2j9Qc/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "INCOMODANDO a Verity con Preguntas TURBIAS...",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=PI-Tw2-fZ0I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PI-Tw2-fZ0I/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Plan B - Es Un Secreto (Lyrics)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=fdSKBfn7KeM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fdSKBfn7KeM/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "code": "MX",
+  "name": "Mexico",
+  "continent": "North America",
+  "fetchedAt": "2026-07-02T06:49:36.675Z",
+  "isMock": false,
+  "items": [
+    {
+      "title": "YA ESTUVO BUENO",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=2i6Q5YamvDg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2i6Q5YamvDg/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Soy Luna: Volver a Rodar | Tráiler Oficial | Disney+",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=IGvWiDWZaWo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IGvWiDWZaWo/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "EL JUEGO MÁS TROLL REGRESA OTRA VEZ 😩 |LEVEL DEVIL 3",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=PBL7J8G_YeM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PBL7J8G_YeM/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Fuerza Regida - TU SANCHO (Letra/Lyrics)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=3thAOv9kRIo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3thAOv9kRIo/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Fiesta Pagäna | Tráiler Oficial",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=_xupg1lHTEk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_xupg1lHTEk/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Me Convertí en VERITY para Trollear a Mis Amigos en Minecraft",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=fobLnMCpUMA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fobLnMCpUMA/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Kane Rodriguez - Se Volvieron Locos (Letra)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=hSgtYvL0bXQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hSgtYvL0bXQ/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "La Odisea | Tráiler Oficial (Universal Pictures)",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=8un_UztYsw0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8un_UztYsw0/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Minecraft Base en ESTATUA POBRE vs Base en ESTATUA MILLONARIA",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=-fyb3VbF6JU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-fyb3VbF6JU/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Entre tú y yo",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=23mrk8_qZ_0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/23mrk8_qZ_0/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "¿ANGRY BIRDS 3: LA PELÍCULA SERÁ UN DESASTRE?",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=k29SeVoSllY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k29SeVoSllY/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "¡ESCONDITE IMPOSIBLE con YOUTUBERS! 😂🖼️🎨 SILVIOGAMER en MECCHA CHAMELEON",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=BfqQ8nzAByQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BfqQ8nzAByQ/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Corridos Del Rey - Ayer Hable Con Dios Remix (Video Oficial)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=IJmYMkyVe1I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IJmYMkyVe1I/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "SPIDER-MAN: UN NUEVO DÍA \"Spider-Man conoce a Messi\" Tráiler Español Latino (2026)",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=ZSxL1_P6NjU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZSxL1_P6NjU/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Me Hice Pasar por NOOB, después USÉ ADMIN en ESCAPA del TECLADO en Roblox!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=Heq2TFb20x8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Heq2TFb20x8/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Don Omar - Dale Don Dale (Lyric Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=4ubjZcyxzBY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ubjZcyxzBY/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Angry Birds 3 | Tráiler Oficial (DOBLADO) | Diciembre 2026",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=qI_JqLRJh74",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qI_JqLRJh74/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "🔴Live Partido Completo Simulación I Videojuego de Fútbol I eFootball Pes 2021",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=85dHMEx3EJ0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/85dHMEx3EJ0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Marc Seguí, Rauw Alejandro, Pol Granch - Tiroteo REMIX (Letra/Lyrics)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=pn3p8yeQrkI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pn3p8yeQrkI/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Sobrevivimos a la PEOR INUNDACIÓN con TORMENTA en Brookhaven Roblox con Mandarina y Chocoblox",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=M3uJA3JVSw0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3uJA3JVSw0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Víctor Manuelle - Apiádate de Mi (Letra/Lyrics)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=ZhetU4Cwngs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZhetU4Cwngs/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "¡CONOCÍ a VERITY en MINECRAFT! (con MrRelevante)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=U-r9gcBOid0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U-r9gcBOid0/mqdefault.jpg",
+      "sourceCategoryTag": "23"
+    },
+    {
+      "title": "Another One Bites The Dust",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=b72gdhV_rXM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b72gdhV_rXM/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "INCOMODANDO a Verity con Preguntas TURBIAS...",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=PI-Tw2-fZ0I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PI-Tw2-fZ0I/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Ana Gabriel - Mi Talismán (Letra)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=eW3gWpnvE7Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eW3gWpnvE7Y/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "CAUSÉ SUFRIMIENTO INFINITO LANZANDO SHURIKENS 🥷😈",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=6aZreZL0QyE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6aZreZL0QyE/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Paulo Londra - Tal Vez  (Letra)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=Gmrfd8QYLpI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gmrfd8QYLpI/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "EL MEJOR jugador del MUNDO busca MATARME en EXTREMO",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=5fRP84yodxw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5fRP84yodxw/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Lo Mejor del Duranguense 2026 🔥 Patrulla 81, K-Paz, Trono y Tierra Cali",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=HDWhrvlrEOc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HDWhrvlrEOc/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Adios Youtube... ahora soy Organizador de Libros 📚📚📚",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=mqxfYKNEgKs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mqxfYKNEgKs/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    }
+  ]
+}

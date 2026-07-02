@@ -1,0 +1,279 @@
+{
+  "code": "KR",
+  "name": "South Korea",
+  "continent": "Asia",
+  "fetchedAt": "2026-07-02T06:49:37.538Z",
+  "isMock": false,
+  "items": [
+    {
+      "title": "Bansanka",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=UOKLtaE2U90",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UOKLtaE2U90/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "동궁 | 공식 예고편 | 넷플릭스",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=kF9fNYN00WQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kF9fNYN00WQ/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "T1 vs TLAW | 플레이-인 스테이지 4라운드 | MSI 2026",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=otAPiHjEjyw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/otAPiHjEjyw/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "[MV] 태연 (TAEYEON)_ 만찬가 (晩餐歌 / BANSANKA) : J-POP REMAKE Vol.1",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=H0GbvPY_Yl8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H0GbvPY_Yl8/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "《동궁》 넷플릭스 최종 예고편 개쩐다..🔥 남주혁 VS 조승우 떡밥과 보스몹 할배 귀신 등장 ㄷㄷ 킹덤 넘냐..?",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=iTqzl1JxW-w",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iTqzl1JxW-w/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "저는 저를 버렸습니다",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=PAarEm-oRDg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PAarEm-oRDg/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "The one who fills me",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=vDKIheHefbE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vDKIheHefbE/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "[오디세이] 파이널 예고편",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=zz2ZH13NOi8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zz2ZH13NOi8/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "기출 문제",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=KdJ1nQpR964",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KdJ1nQpR964/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Molecular Gastronomy",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=lN0iWI69bR8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lN0iWI69bR8/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "[피의 게임X] 다섯 팀의 예측 불가한 관계성과 관전 포인트까지! '피의 게임X' 제작발표회 풀버전ㅣ웨이브 오리지널",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=QB0wKUoIvWI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QB0wKUoIvWI/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "챌섭 두 번째 캐릭 \"신직업 레테\" 육성 시작합니다! [팡이요,  메이플스토리]",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=31r9l645cZo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/31r9l645cZo/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "마음의 숲",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=nNgPxwyPDe0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nNgPxwyPDe0/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser 2",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=mV7451mcw-E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mV7451mcw-E/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "각성한 대황란 브래킷 진출 성공 \"BLG 나와!\" | T1 vs  TLAW | 2026 MSI",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=lAy6IWIZtHI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lAy6IWIZtHI/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "[MV] WAVE CALL(웨이브 콜) _ Rain Is Falling(비가 와)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=AkYhNW0JF2I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AkYhNW0JF2I/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "[스파이더맨: 브랜드 뉴 데이] 올 뉴 영상",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=NVnaL67aDTA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NVnaL67aDTA/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "색맹이 메챠 카멜레온 하면 생기는 일",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=3B5lrocv_R8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3B5lrocv_R8/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "LISTEN",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=M5xdvUGEuio",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M5xdvUGEuio/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "[3회 예고] 소지섭×최대훈×윤경호, 본격적으로 힘 합쳐 서수민 찾기 시작♨",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=reEcxh7vB2o",
+      "thumbnailUrl": "https://i.ytimg.com/vi/reEcxh7vB2o/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "갈드컵만 한 청년 : 불꽃타입 하트골드【포켓몬 모든타입 깨기】#8",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=PkDie66eeg0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PkDie66eeg0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "P.S. I Love You (From. LOVE WAR)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=aFRJC3yF_fY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aFRJC3yF_fY/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "속죄의 미트라 대장장이 교명보",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=S4llUdQ7Jzc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S4llUdQ7Jzc/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "YOU DON'T HAVE TO",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=avCsLZj7J8g",
+      "thumbnailUrl": "https://i.ytimg.com/vi/avCsLZj7J8g/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "모두가 끝났다고 포기한 그 순간, 손에 땀을 쥐게한 초역대급 명승부..【치지직 롤 대회 EP.11】",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=CQ1EM3rEU-s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CQ1EM3rEU-s/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "You, Unknown to Me",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=xwrve3OWj60",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xwrve3OWj60/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "그림 숨바꼭질 진짜 뻔뻔하게 숨는 천재들",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=Qp9wf6aC52A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Qp9wf6aC52A/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "키마 (KYMA) - '어린 나 (Little Me)' Official MV",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=paCZO7G3YKE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/paCZO7G3YKE/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "분탕의 미학",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=NLtrQXRYU-c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NLtrQXRYU-c/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Goodbye Molten",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=MP4iEK_btKU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MP4iEK_btKU/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "code": "DE",
+  "name": "Germany",
+  "continent": "Europe",
+  "fetchedAt": "2026-07-02T06:49:36.956Z",
+  "isMock": false,
+  "items": [
+    {
+      "title": "Kerstin Ott - Regenbogenfarben (Schlagerbooom Open Air)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=uBC_qeAxdKc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uBC_qeAxdKc/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "DIE ODYSSEE Neuer Trailer German Deutsch (2026) Matt Damon, Tom Holland",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=1Js6B0_1-v4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1Js6B0_1-v4/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "🤯😂SOWAS GABS noch NIE! - WITZIGSTE RUNDE mit Monte, Schradin, zarbex & Co.! | Meccha Chameleon",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=I091RjyEkOU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I091RjyEkOU/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Amo - Mala Fama (prod. by SVRN Beats) [Official Video]",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=fAn6zQAZakk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fAn6zQAZakk/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "The Odyssey | Official Countdown Trailer",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AyIZ9tiiN8I/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "PURER RAGEBAIT & BODENLOSE VERSTECKE! | Meccha Chameleon mit MONTE, SCHRADIN, TRYMACS & CO | UNCUT",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=k4ETcgMN3hc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k4ETcgMN3hc/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Andreas Gabalier, Pietro Basile - Una canzone per te (Offizielles Musikvideo)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=A7xqN9W8nOA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A7xqN9W8nOA/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "THE DEVIL'S MOUTH Trailer German Deutsch (2026) Kathryn Newton",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=YiKT66J3_zM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YiKT66J3_zM/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "SANDSTURM ZERSTÖRT ALLES in GTA 5! 😱",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=c-GpP8hsoHU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c-GpP8hsoHU/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Apsilon - Null | A COLORS SHOW",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=72z_bofTAWg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/72z_bofTAWg/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "DIE ODYSSEE Trailer 3 German Deutsch (2026)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=5oj3KnIfAtY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5oj3KnIfAtY/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "😂🤣 Einfach das BESTE SPIEL DERZEIT! 😄 Meccha Chameleon",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=M8w3TUDSYvo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M8w3TUDSYvo/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "MIA BOYKA - ЭКСПОНАТ (Премьера клипа)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=ipDp8Ishe3s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ipDp8Ishe3s/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "The Devil's Mouth – Der Teufelsschlund | Offizieller Trailer | Prime Video",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=92p1LYQvqy4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/92p1LYQvqy4/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "Geh NICHT auf diese Leiter.. | TTT",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=Hw2Qeu4Y4dc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Hw2Qeu4Y4dc/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "Don Omar - Dale Don Dale (Lyric Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=4ubjZcyxzBY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ubjZcyxzBY/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Honest Trailers | Idiocracy",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=gSgBTb3wmMI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gSgBTb3wmMI/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "ROBLOX ANIMAL HOSPITAL..",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=RoAH83lyR7M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RoAH83lyR7M/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Tzanca Uraganu - Stau bine pe cascavalos HIT 2026",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=o4gYLWn97XQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o4gYLWn97XQ/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Snezhnaya 7.0 Trailer Analysis: Hidden Details & Secrets You Missed!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=PYJ1iWPQELE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PYJ1iWPQELE/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "ICH MUSS den BRAWL PASS fertig bekommen (1 Tag Zeit!) 😳 | Mohi Plays",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=iylV-lbW3Sw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iylV-lbW3Sw/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "BABYMONSTER - 'I LIKE IT' M/V TEASER",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=7a5lmW-oIR0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7a5lmW-oIR0/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "House of the Dragon: S3 - Ep.03 'Daeron' | NEW TRAILER | HBO",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=juc4Ljuiq4A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/juc4Ljuiq4A/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "SAMMY STARTET SUPER EVENT in Steal a Brainrot!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=_OSrlU1otd0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_OSrlU1otd0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "RavenstrikeX - Say You Love Life",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=QK6kKnqYTXs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QK6kKnqYTXs/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser 2",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=mV7451mcw-E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mV7451mcw-E/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "WER ERSPIELT DIE BESTE NUKE in 60 MINUTEN? in Roblox Atombomben Simulator",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=dsjboVb7g_8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dsjboVb7g_8/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO | ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL |",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=xvT1jH8B9AM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xvT1jH8B9AM/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "WERWULF - Official Trailer [HD] - Only In Theaters Christmas",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=cmjpadVj-Vk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cmjpadVj-Vk/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "Ich ÖFFNE einen CLAN in Keyboard Escape in Roblox!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=3zG0K0ZwaQE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3zG0K0ZwaQE/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    }
+  ]
+}

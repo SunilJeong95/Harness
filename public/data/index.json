@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-07-02T06:49:37.848Z",
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "continent": "North America",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "continent": "North America",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "continent": "North America",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "continent": "South America",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "continent": "South America",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "continent": "Europe",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "continent": "Europe",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "continent": "Africa",
+      "itemCount": 29,
+      "isMock": false
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "continent": "Africa",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "continent": "Asia",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "continent": "Asia",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "continent": "Asia",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "continent": "Asia",
+      "itemCount": 30,
+      "isMock": false
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "continent": "Oceania",
+      "itemCount": 29,
+      "isMock": false
+    }
+  ]
+}

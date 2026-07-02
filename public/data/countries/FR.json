@@ -1,0 +1,279 @@
+{
+  "code": "FR",
+  "name": "France",
+  "continent": "Europe",
+  "fetchedAt": "2026-07-02T06:49:37.117Z",
+  "isMock": false,
+  "items": [
+    {
+      "title": "BABYMONSTER - 'I LIKE IT' M/V TEASER",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=7a5lmW-oIR0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7a5lmW-oIR0/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "LA NIRVANA Bande Annonce (2026) Gad Elmaleh, Comédie Française",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=Hnq8aVjC0jE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Hnq8aVjC0jE/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "J’ai dépensé 8 435 711 € pour être le Plus Rapide sur Évasion de Clavier !",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=3FtZ8BFU-Z0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3FtZ8BFU-Z0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Philippe Katerine - Lingette-moi",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=bxq5TnuFQEg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bxq5TnuFQEg/mqdefault.jpg",
+      "sourceCategoryTag": "22"
+    },
+    {
+      "title": "L'ODYSSÉE | Bande-annonce J-15 VOST [Au cinéma le 15.07.26]",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=gni7ZpCo4g8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gni7ZpCo4g8/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "J'ai Hacké un Petit Serveur avec une Faille... Voilà ce qui s'est passé...",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=GW5m7M993jQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GW5m7M993jQ/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Habib Fatako Fouta Kamein (Clip Officiel 2026",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=7gVisOarH5Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7gVisOarH5Y/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "LA BOUCHE DU DIABLE Bande Annonce VF (2026) Requin",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=f1frsjlxxTU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f1frsjlxxTU/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "LES MAPS CUSTOM SONT INCROYABLES (Meccha Chameleon)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=WxpKtcDKC8A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WxpKtcDKC8A/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Claudio Capéo - Sperenza (Clip officiel)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=wiRdzsn9g2M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wiRdzsn9g2M/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Bande annonce - Fort Boyard 2026",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=diOImFd0rrM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/diOImFd0rrM/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "J’AI TERMINÉ ANIMAL HOSPITAL…",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=WGVGDnZAh3A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WGVGDnZAh3A/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Lady Gaga - Poker Face (Sub. Español + Lyrics)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=Ce8eLUbT0X8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ce8eLUbT0X8/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "LA NIRVANA Bande Annonce (2026) Gad Elmaleh",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=y_2xC7Q4sos",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y_2xC7Q4sos/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "QUOI ?! ⚠️ PLAYSTATION annonce la FIN des JEUX VIDÉO PHYSIQUES 😥",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=bM7S-KFZRYg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bM7S-KFZRYg/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Jain - Kill It With The Beat (Official Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=nao8wFenafI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nao8wFenafI/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "MON PLUS GROS LIVE DE L'ANNÉE ?! Bande Annonce (avec Squeezie, Gotaga, Jbzz...)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=CwmqsRtO-WY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CwmqsRtO-WY/mqdefault.jpg",
+      "sourceCategoryTag": "24"
+    },
+    {
+      "title": "J'ai Crée une Alliance SECRÈTE sur cette CIVILISATION..",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=cePXhFYqBI4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cePXhFYqBI4/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "LOUP D'MER",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=XyBXT-tlU30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XyBXT-tlU30/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Snezhnaya 7.0 Trailer Analysis: Hidden Details & Secrets You Missed!",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=PYJ1iWPQELE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PYJ1iWPQELE/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Qui Sera le Meilleur au CACHE CACHE Peinture  ? (ft. Les RATZZ)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=6NTTh-eDQp0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6NTTh-eDQp0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Ultra Vomit - HELLFEST 2026 - Dead Robot Zombie Cop From Outer Space 2 (Clip Live Officiel)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=NFWEemYdJ7c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NFWEemYdJ7c/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "HOUSE OF THE DRAGON S3E3 - CE QUE LE TRAILER NOUS RÉVÈLE (MES THÉORIES)",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=UzPq74WLb_Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UzPq74WLb_Y/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "CACHE CACHE Mais On doit se PEINDRE pour Gagner ! (Spécial Map JEU VIDEO | ft. Les RATZZ)",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=3lcHJg-swiw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3lcHJg-swiw/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "YORSSY - MISS DES MISS  (clip officiel)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=JqCdqMKHT3M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JqCdqMKHT3M/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 | Official Teaser 2",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=mV7451mcw-E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mV7451mcw-E/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "ON NE SE LASSE PAS DE CE JEU ! (La soirée du TS : Meccha Chameleon) - Live Complet GOTAGA",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=Anu33o3QKXU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Anu33o3QKXU/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    },
+    {
+      "title": "Don Omar - Dale Don Dale (Lyric Video)",
+      "platform": "youtube",
+      "category": "music",
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=4ubjZcyxzBY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ubjZcyxzBY/mqdefault.jpg",
+      "sourceCategoryTag": "10"
+    },
+    {
+      "title": "WERWULF - Official Trailer [HD] - Only In Theaters Christmas",
+      "platform": "youtube",
+      "category": "movie",
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=cmjpadVj-Vk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cmjpadVj-Vk/mqdefault.jpg",
+      "sourceCategoryTag": "1"
+    },
+    {
+      "title": "LA MAISON De SOUKA EST VIVANTE ! Au secour !",
+      "platform": "youtube",
+      "category": "meme",
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=jIqcAseYFd0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jIqcAseYFd0/mqdefault.jpg",
+      "sourceCategoryTag": "20"
+    }
+  ]
+}
